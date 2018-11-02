@@ -8,7 +8,7 @@ import ketai.net.nfc.record.*;
 import ketai.net.wifidirect.*;
 import ketai.sensors.*;
 import ketai.ui.*;
-
+lol, this is so cool
 
 import java.util.*;
 import java.math.*;
